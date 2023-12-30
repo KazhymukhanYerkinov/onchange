@@ -1,0 +1,22 @@
+.defaultNavItem {
+    color: #4A5568;
+    
+}
+
+.defaultNavItem:hover {
+    background-color: #C6F6D5;
+    text-decoration: none;
+}
+
+
+
+.activeNavItem {
+    color: white;
+    background-color: #48BB78;
+    text-decoration: none;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.10);
+}
+
+.activeNavItem:hover {
+    text-decoration: none;
+}
